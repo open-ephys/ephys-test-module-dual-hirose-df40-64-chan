@@ -1,0 +1,15 @@
+### Footprint positions - created on 2025-04-07T23:04:48+0100 ###
+### Printed by KiCad version 9.0.0
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                       Package                               PosX       PosY       Rot  Side
+C1        100n                      C_0402_1005Metric                   9.8700    10.6000   90.0000  top
+J1        DF40C(2.0)-70DS-0.4V(51)  HIROSE_DF40C(2.0)-70DS-0.4V(51)    30.5265    37.0385  -90.0000  top
+J5        DF40C(2.0)-70DS-0.4V(51)  HIROSE_DF40C(2.0)-70DS-0.4V(51)    64.9357    37.0500   90.0000  top
+R1        1k                        R_0402_1005Metric                  12.2700    12.4500    0.0000  top
+R2        1k                        R_0402_1005Metric                  12.2600    15.2000    0.0000  top
+R3        1k                        R_0402_1005Metric                  12.2700    13.9500    0.0000  top
+R4        0R                        R_0603_1608Metric                  31.2250    23.4750  -90.0000  top
+R5        0R                        R_0603_1608Metric                  64.9507    23.4750  -90.0000  top
+U1        AT24C64D-SSHM-T           SOIC-8_3.9x4.9mm_P1.27mm           13.5700     7.7000   90.0000  top
+## End
