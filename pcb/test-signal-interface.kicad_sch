@@ -9676,6 +9676,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "_footprint Lib:SAMTEC_BSE-040-01-X-D-A"
@@ -9723,7 +9724,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "BSE-040-01-X-D-A"
+		(property "MPN" "BSE-040-01-F-D-A-TR"
 			(at 91.44 71.12 0)
 			(effects
 				(font
@@ -9733,6 +9734,15 @@
 			)
 		)
 		(property "OEPSPN" "OEPS070100"
+			(at 91.44 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OEPS DESC" "CONNECTOR:   CONN RCPT 80POS SMD GOLD   [BSE-040-01-F-D-A-TR] [SMD]"
 			(at 91.44 71.12 0)
 			(effects
 				(font
@@ -10081,6 +10091,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "_footprint Lib:SAMTEC_BSE-040-01-X-D-A"
@@ -10128,7 +10139,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "BSE-040-01-X-D-A"
+		(property "MPN" "BSE-040-01-F-D-A-TR"
 			(at 201.93 71.12 0)
 			(effects
 				(font
@@ -10138,6 +10149,15 @@
 			)
 		)
 		(property "OEPSPN" "OEPS070100"
+			(at 201.93 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OEPS DESC" "CONNECTOR:   CONN RCPT 80POS SMD GOLD   [BSE-040-01-F-D-A-TR] [SMD]"
 			(at 201.93 71.12 0)
 			(effects
 				(font
@@ -10684,6 +10704,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
@@ -10749,6 +10770,15 @@
 				(hide yes)
 			)
 		)
+		(property "OEPS DESC" "RESISTOR:   SMD 0402 1kΩ ±1% 0.063W   [CRCW04021K00FKED] [SMD]"
+			(at 49.53 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5e80b911-0577-487a-8897-a0e3ab560e5e")
 		)
@@ -10787,6 +10817,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
@@ -10852,6 +10883,15 @@
 				(hide yes)
 			)
 		)
+		(property "OEPS DESC" "RESISTOR:   SMD 0402 1kΩ ±1% 0.063W   [CRCW04021K00FKED] [SMD]"
+			(at 58.42 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6bb1d7e5-cae1-4ea5-9a8a-14168b3b7085")
 		)
@@ -10890,6 +10930,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
@@ -10947,6 +10988,15 @@
 			)
 		)
 		(property "OEPSPN" "OEPS020027"
+			(at 67.31 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OEPS DESC" "RESISTOR:   SMD 0402 1kΩ ±1% 0.063W   [CRCW04021K00FKED] [SMD]"
 			(at 67.31 153.67 0)
 			(effects
 				(font
@@ -11129,6 +11179,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
@@ -11177,6 +11228,15 @@
 			)
 		)
 		(property "OEPSPN" "OEPS080150"
+			(at 96.52 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OEPS DESC" "IC:   EEPROM 64KBIT I2C   [AT24C64D-SSHM-T] [8-SOIC]"
 			(at 96.52 163.83 0)
 			(effects
 				(font
@@ -11575,6 +11635,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
@@ -11641,6 +11702,15 @@
 			)
 		)
 		(property "OEPSPN" "OEPS010050"
+			(at 100.33 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OEPS DESC" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R (OEPS H02 001)   [C1005X7R1E104K050BB] [SMD]"
 			(at 100.33 149.86 0)
 			(effects
 				(font

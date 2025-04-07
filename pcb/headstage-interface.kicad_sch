@@ -8469,6 +8469,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "_footprint Lib:HIROSE_DF40C(2.0)-70DS-0.4V(51)"
@@ -8517,6 +8518,15 @@
 			)
 		)
 		(property "OEPSPN" "OEPS070090"
+			(at 198.12 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OEPS DESC" "CONNECTOR:   CONN RCPT 70POS GOLD (OEPS D13 001)   [DF40C(2.0)-70DS-0.4V(51)] [SMD]"
 			(at 198.12 83.82 0)
 			(effects
 				(font
@@ -8883,6 +8893,15 @@
 				(hide yes)
 			)
 		)
+		(property "OEPS DESC" "RESISTOR:   SMD 0603 0Ω 1A   [RCS06030000Z0EA ] [SMD]"
+			(at 195.58 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d3ff9325-ed2a-414d-99c0-f41ff393199b")
 		)
@@ -8923,6 +8942,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "_footprint Lib:HIROSE_DF40C(2.0)-70DS-0.4V(51)"
@@ -8971,6 +8991,15 @@
 			)
 		)
 		(property "OEPSPN" "OEPS070090"
+			(at 93.98 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OEPS DESC" "CONNECTOR:   CONN RCPT 70POS GOLD (OEPS D13 001)   [DF40C(2.0)-70DS-0.4V(51)] [SMD]"
 			(at 93.98 83.82 0)
 			(effects
 				(font
@@ -9395,6 +9424,15 @@
 			)
 		)
 		(property "OEPSPN" "OEPS020151"
+			(at 78.74 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OEPS DESC" "RESISTOR:   SMD 0603 0Ω 1A   [RCS06030000Z0EA ] [SMD]"
 			(at 78.74 144.78 0)
 			(effects
 				(font

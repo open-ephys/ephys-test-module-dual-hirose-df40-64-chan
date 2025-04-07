@@ -368,6 +368,19 @@
 				)
 			)
 		)
+		(property "OEPS DESC" "RESISTOR:   SMD 0402 1kΩ ±1% 0.063W   [CRCW04021K00FKED] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "57501fc8-cef1-4b5e-9be8-5668dde61366")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/e43c68be-319e-4e0b-b734-084821eb03fc/855fa701-4390-4be0-a2eb-ae7bb87320d6")
 		(sheetname "/Test Signal Interface/")
@@ -588,6 +601,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8834bdd2-9cc4-438f-b7f4-4d3caa827ef4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS DESC" "RESISTOR:   SMD 0603 0Ω 1A   [RCS06030000Z0EA ] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fa2bc681-7dc9-4ace-8ad2-bdda63d4354b")
 			(effects
 				(font
 					(size 1 1)
@@ -1372,19 +1398,6 @@
 				)
 			)
 		)
-		(property "Part No." "DF40C(2.0)-70DS-0.4V(51)"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a1fcf0ce-420d-475d-b808-01fbb6556960")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Tolerance" ""
 			(at 0 0 270)
 			(unlocked yes)
@@ -1417,6 +1430,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5aeb1901-fa8a-4052-8113-dc3a2e6ca42b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS DESC" "CONNECTOR:   CONN RCPT 70POS GOLD (OEPS D13 001)   [DF40C(2.0)-70DS-0.4V(51)] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6de54683-04a1-4b3d-b7f0-53450236d438")
 			(effects
 				(font
 					(size 1 1)
@@ -3203,6 +3229,19 @@
 				)
 			)
 		)
+		(property "OEPS DESC" "RESISTOR:   SMD 0402 1kΩ ±1% 0.063W   [CRCW04021K00FKED] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d87e66d9-842c-454a-81a2-9cca8bfacb2c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/e43c68be-319e-4e0b-b734-084821eb03fc/77d259f2-d0dd-46b1-af2e-dd8589ede58a")
 		(sheetname "/Test Signal Interface/")
@@ -3440,6 +3479,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "21a6131a-8a90-4c71-a49f-187b48a17a98")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS DESC" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3e122f69-4800-4675-931a-c76b2588cbf5")
 			(effects
 				(font
 					(size 1 1)
@@ -4883,6 +4935,19 @@
 				)
 			)
 		)
+		(property "OEPS DESC" "IC:   EEPROM 64KBIT I2C   [AT24C64D-SSHM-T] [8-SOIC]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e7203c8c-9ed0-4cf8-82b8-d49b25b6e32c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm*")
 		(path "/e43c68be-319e-4e0b-b734-084821eb03fc/aa60b0bd-dd64-4369-9d4c-2b7a74451919")
 		(sheetname "/Test Signal Interface/")
@@ -5241,6 +5306,19 @@
 				)
 			)
 		)
+		(property "OEPS DESC" "RESISTOR:   SMD 0402 1kΩ ±1% 0.063W   [CRCW04021K00FKED] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e82f43aa-3ca4-4b58-b072-1567769d0385")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/e43c68be-319e-4e0b-b734-084821eb03fc/892bafc3-98fc-4ee6-9fe9-83469eb761df")
 		(sheetname "/Test Signal Interface/")
@@ -5507,6 +5585,19 @@
 				)
 			)
 		)
+		(property "OEPS DESC" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R (OEPS H02 001)   [C1005X7R1E104K050BB] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "60fac8dd-0ae1-436d-a3b8-8be25d50d8f4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/e43c68be-319e-4e0b-b734-084821eb03fc/fd246d83-782a-40d0-8b75-5ec817e78963")
 		(sheetname "/Test Signal Interface/")
@@ -5708,19 +5799,6 @@
 				)
 			)
 		)
-		(property "Part No." "DF40C(2.0)-70DS-0.4V(51)"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "73822cd9-06d3-450a-bbb0-ed0c1a106231")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Tolerance" ""
 			(at 0 0 90)
 			(unlocked yes)
@@ -5753,6 +5831,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e4fd841c-2a98-4e02-baae-6b21006dc228")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS DESC" "CONNECTOR:   CONN RCPT 70POS GOLD (OEPS D13 001)   [DF40C(2.0)-70DS-0.4V(51)] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "da312229-fbc9-4ffa-9367-0923ec9fb46f")
 			(effects
 				(font
 					(size 1 1)
@@ -7512,6 +7603,19 @@
 				)
 			)
 		)
+		(property "OEPS DESC" "RESISTOR:   SMD 0603 0Ω 1A   [RCS06030000Z0EA ] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "49766456-16f1-42d4-9658-68079149d931")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/e1ebfc8d-2966-428b-887c-7237de59cbe3/bb9b2632-db9d-49b2-b883-e2d77b46a7df")
 		(sheetname "/Headstage Interface/")
@@ -7731,20 +7835,6 @@
 				(justify mirror)
 			)
 		)
-		(property "Part No." "BSE-040-01-X-D-A"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "739ad286-2968-470e-8898-2c954af2ec5e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
 		(property "Tolerance" ""
 			(at 0 0 90)
 			(unlocked yes)
@@ -7759,7 +7849,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "BSE-040-01-X-D-A"
+		(property "MPN" "BSE-040-01-F-D-A-TR"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -7779,6 +7869,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "eadf7666-47dd-404d-98ee-cda42824a980")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS DESC" "CONNECTOR:   CONN RCPT 80POS SMD GOLD   [BSE-040-01-F-D-A-TR] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e84533e6-2bfa-4b14-a506-aef34f11fccd")
 			(effects
 				(font
 					(size 1 1)
@@ -8800,7 +8904,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "BSE-040-01-X-D-A"
+		(property "MPN" "BSE-040-01-F-D-A-TR"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -8820,6 +8924,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "09fd08b6-3097-4c8c-ac13-48759a662e34")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS DESC" "CONNECTOR:   CONN RCPT 80POS SMD GOLD   [BSE-040-01-F-D-A-TR] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3abe611f-a70f-4bc0-b512-331c02f03310")
 			(effects
 				(font
 					(size 1 1)
